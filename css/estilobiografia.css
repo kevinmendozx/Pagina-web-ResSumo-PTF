@@ -1,0 +1,24 @@
+
+body
+{
+
+background-image: "imagenes/biografia.jpg";
+background-size: 100vh 100vh;
+background-attachment: fixed;
+margin:0;
+
+
+}
+
+.contenedor h2
+{
+	margin-top: 50px;
+	text-align: center;
+
+}
+.contenedor p
+{
+	margin-top: 20px;
+	text-align: center;
+
+}
